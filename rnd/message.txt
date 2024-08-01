@@ -1,0 +1,3 @@
+Your train will depart on xxxx and arrive on xxxx. 
+The cost of this journey is xxxx 
+Please see other available time options for this journey
